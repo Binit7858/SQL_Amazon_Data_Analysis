@@ -3,12 +3,19 @@ Amazon Sales Analysis
 This project involves the analysis of Amazon sales data using SQL analysis of the Amazon dataset using SQL queries to extract insights into product performance, sales trends, and customer behavior. The analysis aims to provide valuable insights to drive business decisions and optimize strategies for revenue growth and customer satisfaction.
 
 Cleaned and transformed raw data using SQL queries to ensure data accuracy and consistency.
+
 Calculated key performance metrics, such as total sales revenue, average order value, customer acquisition cost, and return on investment (ROI), using SQL aggregate functions.
+
 Identified trends and patterns in sales data through SQL analysis, including seasonality, product popularity, and customer purchase behavior.
+
 Conducted segmentation analysis using SQL to categorize customers based on their purchasing habits, lifetime value, and churn rate.
+
 Generated performance reports and dashboards using SQL queries to visualize sales metrics and trends for stakeholders.
+
 Collaborated with cross-functional teams to interpret analysis findings and develop data-driven strategies to optimize sales performance.
+
 Achieved a 10% increase in sales revenue and a 15% decrease in customer acquisition cost by implementing targeted marketing campaigns based on analysis insights.
+
 Presented analysis findings and recommendations to senior management, demonstrating the value of data-driven decision-making in driving business growth and profitability.
 
 
